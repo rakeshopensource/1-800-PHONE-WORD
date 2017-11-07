@@ -1,4 +1,4 @@
-# 1-800-CODING-CHALLENGE
+# 1-800-PHONE-WORD
 
 **How to Run**
 
